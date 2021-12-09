@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 Hello,
+
+This is me.
 ![XYZ_Headshot-RKOK-2](https://user-images.githubusercontent.com/69405391/145448967-2eef0e94-580a-4dd8-83dc-9784ebafaedb.jpg)
+
+- 🌱 I’m currently learning github feature.
 
 
 
